@@ -13,3 +13,4 @@
 - Interactive Porto Insights - A Plot.ly Tutorial
 - XGBoost CV (LB .284)
 - Porto Seguro Exploratory Analysis and Prediction
+- [회고](https://dduniverse.tistory.com/entry/%EC%BA%90%EA%B8%80-%ED%95%84%EC%82%AC-Porto-Seguro%E2%80%99s-Safe-Driver-Prediction-1-Data-Preparation-Exploration?category=1359054)
